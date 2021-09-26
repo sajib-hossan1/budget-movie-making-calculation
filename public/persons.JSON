@@ -1,0 +1,191 @@
+[
+    {
+      "name": "Kazi Hayat",
+      "role": "Director",
+      "age": 74,
+      "country": "Bangladesh",
+      "salary": 20000,
+      "img": "https://thedailynewnation.com/library/1616429326_5.jpg",
+      "id":1
+    },
+    {
+      "name": "Gazi Rakayet",
+      "role": "Story Writer",
+      "age": 55,
+      "country": "Bangladesh",
+      "salary": 12000,
+      "img": "https://media-eng.dhakatribune.com/uploads/2016/09/syed_shamsul_haq-1.jpg",
+      "id":2
+    },
+    {
+      "name": "Emon Saha",
+      "role": "Music Director",
+      "age": 40,
+      "country": "Bangladesh",
+      "salary": 7000,
+      "img": "https://thedailynewnation.com/library/1410015866_4.jpg",
+      "id":3
+    },
+    {
+      "name": "Shakib Khan",
+      "role": "Actor",
+      "age": 42,
+      "country": "Bangladesh",
+      "salary": 100000,
+      "img": "https://pbs.twimg.com/profile_images/1321816204470710274/7m8-Lvux.jpg",
+      "id":4
+    },
+    {
+      "name": "Misha Sawdagor",
+      "role": "Actor",
+      "age": 55,
+      "country": "Bangladesh",
+      "salary": 40000,
+      "img": "https://i2.cinestaan.com/image-bank/1500-1500/115001-116000/115854.jpg",
+      "id":5
+    },
+    {
+      "name": "Ananta Jalil",
+      "role": "Actor",
+      "age": 43,
+      "country": "Bangladesh",
+      "salary": 95000,
+      "img": "https://www.kidpaw.com/data/people/bangladeshi/kidpaw-ananta-jalil-1295.jpg",
+      "id":6
+    },
+    {
+      "name": "Arifin Shuvoo",
+      "role": "Actor",
+      "age": 40,
+      "country": "Bangladesh",
+      "salary": 40000,
+      "img": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arifin_shuvoo_1066023_10-08-2016_01-43-09.jpg",
+      "id":7
+    },
+    {
+      "name": "Siam Ahmed",
+      "role": "Actor",
+      "age": 30,
+      "country": "Bangladesh",
+      "salary": 20000,
+      "img": "https://www.observerbd.com/2017/11/25/1511632588.jpg",
+      "id":8
+    },
+    {
+      "name": "Rohsan Khan",
+      "role": "Actor",
+      "age": 30,
+      "country": "Bangladesh",
+      "salary": 12000,
+      "img": "https://www.celebrityhow.com/wp-content/uploads/2019/01/Ziaul-Roshan.jpg",
+      "id":9
+    },
+    {
+      "name": "Bappi Choudhory",
+      "role": "Actor",
+      "age": 34,
+      "country": "Bangladesh",
+      "salary": 15000,
+      "img": "https://smallbiography.com/wp-content/uploads/2020/10/158586_bappy-2.jpg",
+      "id":10
+    },
+    {
+      "name": "Syimon Sadik",
+      "role": "Actor",
+      "age": 35,
+      "country": "Bangladesh",
+      "salary": 13000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Symon_Sadik_%28cropped%29.jpg",
+      "id":11
+    },
+    {
+      "name": "Emon Khan",
+      "role": "Actor",
+      "age": 36,
+      "country": "Bangladesh",
+      "salary": 10000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Mamnun_Hasan_Emon_%28Cropped%29.jpg",
+      "id":12
+    },
+    {
+      "name": "Afran Nisho",
+      "role": "Actor",
+      "age": 40,
+      "country": "Bangladesh",
+      "salary": 9000,
+      "img": "https://muchfeed.com/wp-content/uploads/2018/03/Afran-Nisho-1.jpg",
+      "id":13
+    },
+    {
+      "name": "Ziaul Faruq Apurbo",
+      "role": "Actor",
+      "age": 40,
+      "country": "Bangladesh",
+      "salary": 9000,
+      "img": "https://pbs.twimg.com/profile_images/1416505788428742657/tECMiTgS_400x400.jpg",
+      "id":14
+    },
+    {
+      "name": "Riaz",
+      "role": "Actor",
+      "age": 41,
+      "country": "Bangladesh",
+      "salary": 15000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Riaz_3.JPG",
+      "id":15
+    },
+    {
+      "name": "Ferdous Ahmed",
+      "role": "Actor",
+      "age": 42,
+      "country": "Bangladesh",
+      "salary": 15000,
+      "img": "https://www.celebrityborn.com/admin/assets/images/people/ferdous_ahmed_042.jpg",
+      "id":16
+    },
+    {
+      "name": "Chanchal Chowdhury",
+      "role": "Actor",
+      "age": 47,
+      "country": "Bangladesh",
+      "salary": 10000,
+      "img": "https://media-eng.dhakatribune.com/uploads/2017/04/1474821718_3.jpg",
+      "id":17
+    },
+    {
+      "name": "Mosharraf Karim",
+      "role": "Actor",
+      "age": 49,
+      "country": "Bangladesh",
+      "salary": 10000,
+      "img": "https://pbs.twimg.com/profile_images/1212112141727125504/5NPa1qC4_400x400.jpg",
+      "id":18
+    },
+    {
+      "name": "Zayed Khan",
+      "role": "Actor",
+      "age": 34,
+      "country": "Bangladesh",
+      "salary": 25000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zayed_Khan%2C_Dhaka_2018_%281%29_%28cropped%29.jpg",
+      "id":19
+    },
+    {
+      "name": "Tahsan Khan",
+      "role": "Actor",
+      "age": 41,
+      "country": "Bangladesh",
+      "salary": 20000,
+      "img": "https://pbs.twimg.com/profile_images/1376911731553828866/jAG5hoM-.jpg",
+      "id":20
+    },
+    {
+      "name": "Kazi Maruf",
+      "role": "Actor",
+      "age": 37,
+      "country": "Bangladesh",
+      "salary": 10000,
+      "img": "https://images.mubicdn.net/images/cast_member/485662/cache-245248-1502263148/image-w856.jpg",
+      "id":21
+    }
+]

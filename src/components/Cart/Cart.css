@@ -1,0 +1,30 @@
+.cart h2 {
+  color: rgb(233, 233, 233);
+  font-weight: 600;
+}
+
+.cart-details {
+  height: 100px;
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to left, #d66d75, #e29587);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.cart-details img {
+  height: 100px;
+  width: 100px;
+  margin-right: 20px;
+}
+
+.buy-btn {
+  font-size: 16px;
+  color: white;
+  background-color: rgb(15, 150, 168);
+  border: none;
+  padding: 12px 22px;
+  cursor: pointer;
+  border-radius: 5px;
+}

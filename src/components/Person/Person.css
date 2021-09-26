@@ -1,0 +1,56 @@
+.person-img {
+  text-align: center;
+}
+
+.person-img img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.person-card {
+  backdrop-filter: blur(3px) saturate(180%);
+  -webkit-backdrop-filter: blur(3px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+  margin: 20px;
+  padding: 10px;
+}
+
+.person-card h2 {
+  font-weight: 500;
+  line-height: 15px;
+}
+
+.cart-btn {
+  font-size: 16px;
+  color: white;
+  background-color: rgb(15, 150, 168);
+  border: none;
+  padding: 9px 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.person-social-icon {
+  padding-top: 5px;
+  text-align: right;
+}
+
+.person-social-icon a {
+  margin-right: 20px;
+  font-size: 30px;
+}
+
+.person-social-icon a:hover {
+  transform: scale(1.2);
+}
+
+.fb-icon {
+  color: #395694;
+}
+
+.twitter-icon {
+  color: #1c9cea;
+}
