@@ -18,6 +18,12 @@
   padding: 10px;
 }
 
+.person-card:hover {
+  transform: scale(1.03);
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
 .person-card h2 {
   font-weight: 500;
   line-height: 15px;
@@ -43,8 +49,8 @@
   font-size: 30px;
 }
 
-.person-social-icon a:hover {
-  transform: scale(1.2);
+.fb-icon:hover {
+  transform: scale(1.5);
 }
 
 .fb-icon {
